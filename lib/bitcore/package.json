@@ -77,14 +77,14 @@
     "elliptic": "=0.16.0",
     "hash.js": "=0.3.2",
     "inherits": "=2.0.1",
-    "lodash": "=2.4.1",
+    "lodash": "4.17.17",
     "sha512": "=0.0.1"
   },
   "devDependencies": {
     "bitcore-build": "git://github.com/bitpay/bitcore-build.git",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
-    "gulp": "^3.8.10"
+    "gulp": "^4.0.0"
   },
   "license": "MIT"
 }
